@@ -5,4 +5,4 @@ La unica parte que se queda en un "veremos" fue la parte del formulario, pero lo
 Se utilizo un pequeño código de JavaScript, es Modernizr, es para que un navegador soporte las caracteristicas del código o de ciertos formatos.
 Se aprendieron errores nuevos y se seguira mejorando para no volverlos a cometer.
 Implemente una imagen al footer, es una de las partes que considero algo especial.
-Hasta ahora es la mejor página que he hecho.
+Hasta ahora es la mejor página que he hecho
